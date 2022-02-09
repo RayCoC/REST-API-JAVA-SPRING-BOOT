@@ -1,0 +1,14 @@
+fr/iutmontreuil/csid/monpetitbonsaiprivate/commons/persistence/CareEventCompoundKey.class
+fr/iutmontreuil/csid/monpetitbonsaiprivate/commons/persistence/CareType.class
+fr/iutmontreuil/csid/monpetitbonsaiprivate/bonsai/domain/model/Bonsai.class
+fr/iutmontreuil/csid/monpetitbonsaiprivate/commons/persistence/BonsaiEntity.class
+fr/iutmontreuil/csid/monpetitbonsaiprivate/commons/persistence/BonsaiDao.class
+fr/iutmontreuil/csid/monpetitbonsaiprivate/bonsai/repository/BonsaiRepository.class
+fr/iutmontreuil/csid/monpetitbonsaiprivate/MonPetitBonsaiApplication.class
+fr/iutmontreuil/csid/monpetitbonsaiprivate/bonsai/domain/BonsaiService.class
+fr/iutmontreuil/csid/monpetitbonsaiprivate/bonsai/BonsaiMapper.class
+fr/iutmontreuil/csid/monpetitbonsaiprivate/bonsai/exposition/BonsaiController.class
+fr/iutmontreuil/csid/monpetitbonsaiprivate/owner/OwnerMapper.class
+fr/iutmontreuil/csid/monpetitbonsaiprivate/commons/errors/ErrorDTO.class
+fr/iutmontreuil/csid/monpetitbonsaiprivate/bonsai/exposition/dto/BonsaiDTO.class
+fr/iutmontreuil/csid/monpetitbonsaiprivate/commons/errors/GlobalExceptionHandler.class

@@ -1,0 +1,45 @@
+package fr.iutmontreuil.csid.monpetitbonsaiprivate.owner.exposition.dto;
+
+import java.util.UUID;
+
+public class BonsaiDTO {
+    private UUID id;
+    private String name;
+    private String species;
+    private Integer age;
+
+    public BonsaiDTO() {}
+
+    public UUID getId() {
+        return id;
+    }
+
+    public void setId(UUID id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getSpecies() {
+        return species;
+    }
+
+    public void setSpecies(String species) {
+        this.species = species;
+    }
+
+    public Integer getAge() {
+        return age;
+    }
+
+    public void setAge(Integer age) {
+        this.age = age;
+    }
+
+}
